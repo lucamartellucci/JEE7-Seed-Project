@@ -1,0 +1,6 @@
+edu/tutorial/jee7/greetings/GreetingService.class
+edu/tutorial/jee7/greetings/GreetingServlet.class
+edu/tutorial/jee7/logging/LoggingProducer.class
+edu/tutorial/jee7/greetings/SimpleGreetingService.class
+edu/tutorial/jee7/logging/LogbackWebListener.class
+edu/tutorial/jee7/logging/LogBackConfigLoader.class

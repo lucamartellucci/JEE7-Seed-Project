@@ -1,0 +1,17 @@
+
+
+
+FOURSQUARE PLACES - Userless access
+https://api.foursquare.com/v2/venues/search?near=Bergamo, IT,&client_id=0SBDXSBBNTOLSSDDP43TTXSAX5WFHF2CWKR2ELZFZIRDQFIE&client_secret=Y1RMVHYHY32MQWTPNXXWC5BOQ2NR3YJ1RLDMIEPJLAJX2NMD&v=20140415
+
+https://foursquare.com/oauth2/authenticate?client_id=0SBDXSBBNTOLSSDDP43TTXSAX5WFHF2CWKR2ELZFZIRDQFIE&response_type=token& &redirect_uri=http://badgehelp.it
+
+
+access_token=WAJHEFH2AZL4L5INJL4ZV5F2M2CWUTMYME3UEUKQNHL1SL0G
+
+USER
+https://api.foursquare.com/v2/users/self?oauth_token=WAJHEFH2AZL4L5INJL4ZV5F2M2CWUTMYME3UEUKQNHL1SL0G&v=20140414
+
+
+CHECKINS
+https://api.foursquare.com/v2/users/self/checkins?oauth_token=WAJHEFH2AZL4L5INJL4ZV5F2M2CWUTMYME3UEUKQNHL1SL0G&v=20140414
